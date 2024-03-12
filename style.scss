@@ -1,0 +1,566 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+@font-face {
+    font-family: Leifa;
+    src: url(Leifa-ExtraBold.ttf);
+}
+
+.logo{
+    position: relative;
+    left: 300px;
+    top: 30px;
+}
+
+.menu{
+    display: flex;
+    position: relative;
+    left: 340px;
+    top: -30px;
+}
+
+.logoTXT{
+    margin: 20px;
+    font-family: Leifa;
+    font-size: 24px;
+    color: #1A1A1A;
+    position: relative;
+    top: -5px;
+}
+
+.headerTXT{
+    margin: 25px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #191919;
+}
+
+.headerTXT:hover{
+    color: #0000EE;
+}
+
+.headerButton{
+    width: 170px;
+    height: 35px;
+    background-color: #2E4FD7;
+    position: relative;
+    left: 1470px;
+    top: -96px;
+}
+
+.headerButtonTXT{
+    position: relative;
+    left: 20px;
+    top: 8px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.mainHeading{
+    text-align: left;
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 64px;
+    position: relative;
+    left: 330px;
+    top: 50px;
+    color: #191919;
+}
+
+.mainTXT1{
+    text-align: left;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    position: relative;
+    left: 330px;
+    top: 130px;
+    color: #1E1E1E;
+}
+
+.mainButton{
+    width: 200px;
+    height: 50px;
+    background-color: #2E4FD7;
+    position: relative;
+    left: 330px;
+    top: 150px;
+}
+
+.mainButtonTXT{
+    position: relative;
+    left: 28px;
+    top: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.mainTXT2{
+    text-align: left;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    position: relative;
+    left: 570px;
+    top: 107px;
+    color: #1E1E1E;
+}
+
+.companies{
+    position: relative;
+    left: 330px;
+    top: -330px;
+}
+
+.woman1{
+    position: relative;
+    left: 800px;
+    top: -350px;
+}
+
+.benefit{
+    position: relative;
+    left: 400px;
+    top: -100px;
+}
+
+.benefitHeader{
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    position: relative;
+    left: 80px;
+    top: -80px;
+    color: #191919;
+}
+
+.benefitTXT{
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    position: relative;
+    left: 80px;
+    top: -90px;
+    color: #1E1E1E;
+}
+
+.benefitsHeader{
+    text-align: left;
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 52px;
+    position: relative;
+    left: 1150px;
+    top: -680px;
+    color: #191919;
+}
+
+.benefitsTXT{
+    text-align: left;
+    position: relative;
+    left: 1150px;
+    top: -680px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #1E1E1E;
+}
+
+.benefitsButton{
+    width: 200px;
+    height: 50px;
+    background-color: #2E4FD7;
+    position: relative;
+    left: 1150px;
+    top: -640px;
+}
+
+.benefitsButtonTXT{
+    position: relative;
+    left: -65px;
+    top: -5px;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.reasonsHeader{
+    position: relative;
+    left: 400px;
+    top: -420px;
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 52px;
+    color: #18191F;
+}
+
+.firstLine{
+    display:flex;
+    position: relative;
+    left: 400px;
+    top: -400px;
+}
+
+.zonesHeader{
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    position: relative;
+    left: 110px;
+    top: -100px;
+    color: #18191F;
+}
+
+.zonesTXT{
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    position: relative;
+    left: 110px;
+    top: -110px;
+    color: #18191F;
+}
+
+.spectrum{
+    position: relative;
+    left: 200px;
+}
+
+.spectrumHeader{
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    position: relative;
+    left: 110px;
+    top: -100px;
+    color: #18191F
+}
+
+.spectrumTXT{
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    position: relative;
+    left: 110px;
+    top: -110px;
+    color: #18191F;
+}
+
+.secondLine{
+    display:flex;
+    position: relative;
+    left: 400px;
+    top: -400px;
+}
+
+.immposibleHeader{
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    position: relative;
+    left: 110px;
+    top: -100px;
+    color: #18191F;
+}
+
+.immposibleTXT{
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    position: relative;
+    left: 110px;
+    top: -110px;
+    color: #18191F;
+}
+
+.terms{
+    position: relative;
+    left: 200px;
+}
+
+.termsHeader{
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    position: relative;
+    left: 110px;
+    top: -100px;
+    color: #18191F;
+}
+
+.termsTXT{
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    position: relative;
+    left: 110px;
+    top: -110px;
+    color: #18191F;
+}
+
+.story{
+    width: 1110px;
+    height: 700px;
+    background-color: #E7EBFC;
+    position: relative;
+    left: 400px;
+    top: -150px;
+}
+
+.storyHeader{
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 42px;
+    position: relative;
+    left: 100px;
+    top: 100px;
+    color: #191919;
+}
+
+.storyTXT{
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 42px;
+    color: #1E1E1E;
+    position: relative;
+    left: 100px;
+    top: 100px;
+}
+
+.logitechLogo{
+    position: relative;
+    left: 100px;
+    top: 100px;
+}
+
+.storyButton{
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #2E4FD7;
+    position: relative;
+    left: 100px;
+    top: 80px;
+}
+
+.storyButton:hover{
+    color: #1E1E1E;
+}
+
+.three{
+    position: relative;
+    left: 100px;
+    top: -300px;
+}
+
+.woman2{
+    position: relative;
+    left: 700px;
+    top: -380px;
+}
+
+.processHeader{
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 42px;
+    color: #18191F;
+    position: relative;
+    left: 400px;
+}
+
+.stages{
+    display: flex;
+    position: relative;
+    left: 400px;
+    top: 30px;
+}
+
+.stagesHeader{
+    color: #18191F;
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    position: relative;
+    top: -5px;
+}
+
+.stagesTXT{
+    color: #18191F;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    position: relative;
+    top: -25px;
+    line-height: 25px;
+}
+
+.design{
+    position: relative;
+    left: 80px;
+}
+
+.develop{
+    position: relative;
+    left: 160px;
+}
+
+.deploy{
+    position: relative;
+    left: 240px;
+}
+
+.action{
+    width: 100%;
+    height: 660px;
+    background-color: #E7EBFC;
+    position: relative;
+    top: 100px;
+    text-align: center;
+}
+
+.actionHeader{
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 52px;
+    color: #191919;
+    position: relative;
+    top: 100px;
+}
+
+.actionTXT{
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #1E1E1E;
+    position: relative;
+    top: 80px;
+}
+
+.actionButton{
+    width: 200px;
+    height: 50px;
+    background-color: #2E4FD7;
+    display: inline-block;
+    position: relative;
+    top: 150px;
+}
+
+.actionButtonTXT{
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+    position: relative;
+    top: -2px;
+}
+
+.hr1{
+    width: 1110px;
+    border: 2px solid #B4B4B4;
+    align-self: center;
+    position: relative;
+    top: 230px;
+}
+
+.logotipi{
+    position: relative;
+    top: 275px;
+}
+
+.footer{
+    position: relative;
+    top: 75px;
+    width: 100%;
+    height: 408px;
+    background-color: #052825;
+    color: #FFFFFF;
+}
+
+.footerHeader{
+    font-family: Leifa;
+    font-size: 24px;
+    position: relative;
+    top: 75px;
+    left: 292px;
+}
+
+.leftColumn{
+    position: relative;
+    top: 90px;
+    left: 292px;
+}
+
+.footerLowerHeader{
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.leftColumnTXT{
+    line-height: 23px;
+    position: relative;
+    top: -5px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.leftColumnButton{
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.data1{
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    position: relative;
+    top: -46px;
+    left: 1075px;
+}
+
+.data2{
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    position: relative;
+    top: -25px;
+    left: 1165px;
+}
+
+.hr2{
+    width: 1300px;
+    border: 2px solid #FFFFFF;
+    align-self: center;
+    position: relative;
+    top: 40px;
+}
+
+.footerTXT1{
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    position: relative;
+    left: 292px;
+    top: 50px;
+}
+
+.footerTXT2{
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    position: relative;
+    left: 1305px;
+    top: 2px;
+}
